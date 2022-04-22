@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="KotlinJavaRuntime">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Kotlin/kotlinc/lib/kotlin-test.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Kotlin/kotlinc/lib/kotlinx-coroutines-core.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Kotlin/kotlinc/lib/kotlinx-coroutines-core-jvm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-sources.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Kotlin/kotlinc/lib/kotlin-reflect-sources.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/Kotlin/kotlinc/lib/kotlin-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
